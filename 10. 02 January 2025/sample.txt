@@ -1,0 +1,3 @@
+Create a file named sample.txt.
+Write 3 lines of random text into the file.
+Read and display the contents of the file.
